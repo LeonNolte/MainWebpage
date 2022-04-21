@@ -25,20 +25,8 @@
         text-align: center;
     }
 
-    .attribution {
-        font-style: normal;
-    }
-
-    .painting {
-        height: 800px;
-    }
-
     #form {
        text-align: center;
-    }
-
-    #profile-picture {
-        float:right;
     }
 
     #main-interface {
@@ -50,7 +38,7 @@
     }
 
     #navigation-sidebar {
-        background-color: linen;
+        background-color: whitesmoke;
         padding: 20px;
         width: 120px;
         height: 100%;
@@ -60,13 +48,8 @@
         top: 0;
         left: 0;
         text-align: left;
-        }
-
-    #posed-question {
-        text-align: center;
-        font-weight: bold;
-        font-style: italic;
-        font-size: 24px;
-        margin: 30px
     }
-    
+
+    #Pinterest-logo {
+        width: 600px;
+    }    
